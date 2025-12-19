@@ -7,9 +7,9 @@ GPS: expo-location (Library)
 
 City Search: Open-Meteo Geocoding API (URL)
 
-Backend: FastAPI (Python Framework)
+Backend: -
 
-Hosting: Render (Service)
+Hosting: -
 
-Database: Supabase (Service)
+Database: -
 ```
